@@ -1,0 +1,35 @@
+
+:: Whois ::
+
+Stephen Horner 
+
+By profession I work as a network and information security professional. Outside
+of work I am a father, open source common lisp developer, vegan, free-market 
+agorist, non-violent, bean-and-rice loving techno-primitivist. And of course in
+Chile I am simply known as the Gringo Culiao ;)
+
+:: Lines of Communication :: 
+
+PGP Key:	https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C
+Keybase.io:	keybase.io/treeherder
+Github:		https://github.com/siganon
+Email:		treeherder@protonmail.com
+Email:		digger@bitmessage.ch
+Matrix/IRC:	@EvilAngel:matrix.org
+Bitmessage:	BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1
+Ricochet:  	ricochet:2azjfm5fmb73xvze
+XMPP:      	bitherder@jabber.otr.im
+XMPP:      	digger@autistici.org
+Wire:      	treeherder
+Wickr:     	siganon  
+Skype:		stephenphorner
+
+:: Social Netowrking ::
+
+LinkedIn:	https://www.linkedin.com/in/treeherder/
+Twitter:	bitmarauder
+Mastodon:	mstdn.io/@treeherder
+Instagram:	el_viejo_anarquista
+
+Skrrt Skrrt!
+
