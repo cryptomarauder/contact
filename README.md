@@ -20,7 +20,8 @@ friends and family in Chile I am simply known as gringo culiao lol.
 <br />
 
 
-# Lines of Communication 
+# Ways to reach me
+<br /><br />
 
 **Service** | **Account**
 ------------ | -------------
