@@ -17,6 +17,8 @@ bean-and-rice loving techno-primitivist. And of course to a few of my dear
 friends and family in Chile I am simply known as gringo culiao lol.  
 
 
+<br />
+
 
 ### Lines of Communication 
 
@@ -36,7 +38,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **Wickr** | `siganon` 
 **Skype** | `stephenphorner`
 
---
+<br /><br />
 
 ### Social Networks
 **Service** | **Account**
@@ -45,7 +47,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **Twitter** | [My Twitter](https://twitter.com/bitmarauder)
 **Mastodon** | [My Mastodon](https://mstdn.io/@treeherder)
 
-
+<br />
 
 ## Skrrt Skrrt!
 
