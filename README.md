@@ -15,20 +15,20 @@ Outside of work I am a father, open source common lisp developer, vegan, free-ma
 
 **SERVICE** | **ACCOUNT**
 ------------ | -------------
-**PGP Key** | [MIT PKS: 0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=get&search=0xB10BBF421CD2FF3C)
-**Keybase.io** | [treeherder](https://keybase.io/treeherder)
-**Github** | [siganon](https://siganon.github.io/contact)
-**LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
-**Email** | `treeherder@protonmail.com`
-**Email** | `digger@bitmessage.ch`
-**[Matrix/IRC](https://riot.im/app/)** | `@EvilAngel:matrix.org`
+**[PGP](https://www.gnupg.org)** | [MIT PKS: 0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=get&search=0xB10BBF421CD2FF3C)
+**[Keybase.io](https://keybase.io)** | [treeherder](https://keybase.io/treeherder)
+**[Github](https://github.com)** | [siganon](https://siganon.github.io/contact)
+**[LinkedIn](https://www.linkedin.com)** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
+**[Email](https://www.protonmail.com)** | `treeherder@protonmail.com`
+**[Email](https://bitmessage.ch)** | `digger@bitmessage.ch`
+**[Matrix](https://riot.im/app/)** | `@EvilAngel:matrix.org`
 **[BitMessage](https://github.com/Bitmessage/PyBitmessage)** | `BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1`
 **[Ricochet](https://ricochet.im/)** | `ricochet:2azjfm5fmb73xvze`
 **[XMPP](https://conversations.im/)** | `bitherder@jabber.otr.im`
 **[XMPP](https://conversations.im/)** | `bitherder@autistici.org`
 **[Wire](https://wire.com/en/)** | `treeherder`
 **[Wickr](https://www.wickr.com/)** | `siganon` 
-**Skype** | `stephenphorner`
+**[Skype](https://jitsi.org/)** | `stephenphorner`
 
 # Skrrt Skrrt!
 
