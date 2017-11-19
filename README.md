@@ -38,6 +38,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 
 <br /> 
 
+<p>
 # SOCIAL NETOWORKS
 <br />
 
@@ -48,6 +49,6 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **Mastodon** | [My Mastodon](https://mstdn.io/@treeherder)
 
 <br />
-
+</p>
 # Skrrt Skrrt!
 
