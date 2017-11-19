@@ -4,7 +4,7 @@ For the time being this will simply remain a landing page for those seeking cont
 
 # INTRODUCTION
 
-As you may very well know, my name is Stephen Horner. By trade I work and study in the fields of network and information security. My current studies/work have me mostly readying myself for the OSCP certification offered by [Offensive Security](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
+As you may very well know, my name is Stephen Horner. By trade I work and study in the fields of network and information security. My current studies/work have me mostly readying myself for the OSCP certification offered by [Offensive Security](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/).
 
 Outside of work I am a father, open source common lisp developer, vegan, free-market agorist, non-violent, bean-and-rice loving techno-primitivist. And of course to a few of my dear friends and family in Chile I am simply known as gringo culiao lol.  
 
