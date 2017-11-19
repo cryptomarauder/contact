@@ -36,7 +36,9 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **Wickr** | `siganon` 
 **Skype** | `stephenphorner`
 
-#### Social Networks
+--
+
+### Social Networks
 **Service** | **Account**
 ------------ | -------------
 **LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
