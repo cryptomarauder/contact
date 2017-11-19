@@ -4,7 +4,7 @@ For a while all you'll find here is just some basic contact information on how t
 
 
 
-### Contact Details: Stephen Horner
+# Contact Details: Stephen Horner
 
 Thank you for visiting my github page. If you are here then it is because you were
 led here to find my contact information. If so, then you're in the right place.  
@@ -20,7 +20,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 <br />
 
 
-### Lines of Communication 
+# Lines of Communication 
 
 **Service** | **Account**
 ------------ | -------------
@@ -40,7 +40,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 
 <br /><br />
 
-### Social Networks
+# Social Networks
 **Service** | **Account**
 ------------ | -------------
 **LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
@@ -49,5 +49,5 @@ friends and family in Chile I am simply known as gringo culiao lol.
 
 <br />
 
-## Skrrt Skrrt!
+# Skrrt Skrrt!
 
