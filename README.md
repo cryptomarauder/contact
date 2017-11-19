@@ -1,23 +1,16 @@
 # WELCOME / BIENVENIDOS !
 
-For a while all you'll find here is just some basic contact information on how to reach me etc. As I grow fond of this platform I may move to develop the page a bit more. But in the mean time, here is the information you came to find.  
-
+For the time being this will simply remain a landing page for those seeking contact details etc. However, as I grow more and more fond of this platform I may move to develop the page a bit more. So, without further ado.  
 
 # INTRODUCTION
 
-Thank you for visiting my github page. If you are here then it is because you were
-led here to find my contact information. If so, then you're in the right place.  
+As you may very well know, my name is Stephen Horner. By trade I work and study in the fields of network and information security. My current studies/work have me mostly readying myself for the OSCP certification offered by [Offensive Security](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
 
-
-Well, as you likely know, my name is Stephen Horner. By profession I work as a 
-network and information security professional. Outside of work I am a father, 
-open source common lisp developer, vegan, free-market agorist, non-violent, 
-bean-and-rice loving techno-primitivist. And of course to a few of my dear 
-friends and family in Chile I am simply known as gringo culiao lol.  
+Outside of work I am a father, open source common lisp developer, vegan, free-market agorist, non-violent, bean-and-rice loving techno-primitivist. And of course to a few of my dear friends and family in Chile I am simply known as gringo culiao lol.  
 
 <br />
 
-# CONTACT INFORMATION: STEPHEN HORNER
+# CONTACT INFORMATION
 <br />
 
 **SERVICE** | **ACCNT**
