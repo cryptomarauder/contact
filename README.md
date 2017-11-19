@@ -13,7 +13,7 @@ Outside of work I am a father, open source common lisp developer, vegan, free-ma
 # CONTACT INFORMATION
 <br />
 
-**SERVICE** | **ACCNT**
+**SERVICE** | **ACCOUNT**
 ------------ | -------------
 **PGP Key** | [MIT PKS: 0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C)
 **Keybase.io** | [treeherder](https://keybase.io/treeherder)
