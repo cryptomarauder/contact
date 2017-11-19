@@ -18,7 +18,7 @@ Outside of work I am a father, open source common lisp developer, vegan, free-ma
 **[PGP](https://www.gnupg.org)** | [MIT PKS: 0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=get&search=0xB10BBF421CD2FF3C)
 **[Keybase.io](https://keybase.io)** | [treeherder](https://keybase.io/treeherder)
 **[Github](https://github.com)** | [siganon](https://siganon.github.io/contact)
-**[LinkedIn](https://www.linkedin.com)** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
+**[LinkedIn](https://www.linkedin.com)** | [treeherder](https://www.linkedin.com/in/treeherder/)
 **[Email](https://www.protonmail.com)** | `treeherder@protonmail.com`
 **[Email](https://bitmessage.ch)** | `digger@bitmessage.ch`
 **[Matrix](https://riot.im/app/)** | `@EvilAngel:matrix.org`
