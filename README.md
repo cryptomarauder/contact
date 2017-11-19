@@ -1,10 +1,9 @@
-# Welcome My Contact Page
+# WELCOME / BIENVENIDOS !
 
 For a while all you'll find here is just some basic contact information on how to reach me etc. As I grow fond of this platform I may move to develop the page a bit more. But in the mean time, here is the information you came to find.  
 
 
-
-# Contact Details: Stephen Horner
+# INTRODUCTION
 
 Thank you for visiting my github page. If you are here then it is because you were
 led here to find my contact information. If so, then you're in the right place.  
@@ -16,14 +15,12 @@ open source common lisp developer, vegan, free-market agorist, non-violent,
 bean-and-rice loving techno-primitivist. And of course to a few of my dear 
 friends and family in Chile I am simply known as gringo culiao lol.  
 
-
 <br />
 
+# CONTACT INFORMATION: STEPHEN HORNER
+<br />
 
-# Ways to reach me
-<br /><br />
-
-**Service** | **Account**
+**SERVICE** | **ACCNT**
 ------------ | -------------
 **PGP Key** | [PGPKEY:0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C)
 **Keybase.io** | [@treeherder](https://keybase.io/treeherder)
@@ -41,8 +38,8 @@ friends and family in Chile I am simply known as gringo culiao lol.
 
 <br /><br />
 
-# Social Networks
-**Service** | **Account**
+# SOCIAL NETOWORKS
+**SERVICE** | **ACCNT**
 ------------ | -------------
 **LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
 **Twitter** | [My Twitter](https://twitter.com/bitmarauder)
