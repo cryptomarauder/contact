@@ -21,13 +21,13 @@ Outside of work I am a father, open source common lisp developer, vegan, free-ma
 **LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
 **Email** | `treeherder@protonmail.com`
 **Email** | `digger@bitmessage.ch`
-**Matrix/IRC** | `@EvilAngel:matrix.org`
-**Bitmessage** | `BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1`
-**Ricochet** | `ricochet:2azjfm5fmb73xvze`
-**XMPP** | `bitherder@jabber.otr.im`
-**XMPP** | `bitherder@autistici.org`
-**Wire** | `treeherder`
-**Wickr** | `siganon` 
+**[Matrix/IRC](https://riot.im/app/)** | `@EvilAngel:matrix.org`
+**[BitMessage](https://github.com/Bitmessage/PyBitmessage)** | `BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1`
+**[Ricochet](https://ricochet.im/)** | `ricochet:2azjfm5fmb73xvze`
+**[XMPP](https://conversations.im/)** | `bitherder@jabber.otr.im`
+**[XMPP](https://conversations.im/)** | `bitherder@autistici.org`
+**[Wire](https://wire.com/en/)** | `treeherder`
+**[Wickr](https://www.wickr.com/)** | `siganon` 
 **Skype** | `stephenphorner`
 
 # Skrrt Skrrt!
