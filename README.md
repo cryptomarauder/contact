@@ -1,51 +1,39 @@
-## Welcome to GitHub Pages
+## Welcome My Contact Page
 
-You can use the [editor on GitHub](https://github.com/siganon/contact/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For a while all you'll find here is just some basic contact information on how to reach me etc. As I grow fond of this platform I may move to develop the page a bit more. But in the mean time, here is the information you came to find.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Contact Details: Stephen Horner
 
-### Markdown
+Thank you for visiting my github page. If you are here then it is because you were
+led here to find my contact information. If so, then you're in the right place.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Well, as you likely know, my name is Stephen Horner. By profession I work as a 
+network and information security professional. Outside of work I am a father, 
+open source common lisp developer, vegan, free-market agorist, non-violent, 
+bean-and-rice loving techno-primitivist. And of course to a few of my dear 
+friends and family in Chile I am simply known as gringo culiao lol.
 
-```markdown
-Syntax highlighted code block
+### Lines of Communication 
 
-# Header 1
-## Header 2
-### Header 3
+PGP Key:      [PGPKEY:0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C)
+Keybase.io:   [@treeherder](https://keybase.io/treeherder)
+Github:       [@siganon](https://siganon.github.io/contact)
+Email:        `treeherder@protonmail.com`
+Email:        `digger@bitmessage.ch`
+Matrix/IRC:   `@EvilAngel:matrix.org`
+Bitmessage:   `BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1`
+Ricochet:     `ricochet:2azjfm5fmb73xvze`
+XMPP:         `bitherder@jabber.otr.im`
+XMPP:         `digger@autistici.org`
+Wire:         `treeherder`
+Wickr:        `siganon` 
+Skype:        `stephenphorner`
 
-- Bulleted
-- List
+### Social Netowrking
 
-1. Numbered
-2. List
+LinkedIn:     [My LinkedIn](https://www.linkedin.com/in/treeherder/)
+Twitter:      [My Twitter](https://twitter.com/bitmarauder)
+Mastodon:     [My Mastodon](https://mstdn.io/@treeherder)
 
-**Bold** and _Italic_ and `Code` text
+### Skrrt Skrrt!
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siganon/contact/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Stephen Horner Skrrt Skrrt!
-By profession I work as a network and information security professional. Outside of work I am a father, open source common lisp developer, vegan, free-market agorist, non-violent, bean-and-rice loving techno-primitivist. There was that time I was simply known as gringo culiao ;) 
-
-PGP Key:  	https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C
-Keybase.io: keybase.io/treeherder
-Github:     https://github.com/siganon
-Email:      treeherder@protonmail.com
-Bitmessage: BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1
-Ricochet:	  ricochet:2azjfm5fmb73xvze
-XMPP:       bitherder@jabber.otr.im
-XMPP:       digger@autistici.org
-Wire:       treeherder
-Wickr:      siganon  
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
