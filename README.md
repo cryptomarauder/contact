@@ -20,7 +20,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 
 ### Lines of Communication 
 
-**Service | Account**
+**Service** | **Account**
 ------------ | -------------
 **PGP Key** | [PGPKEY:0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C)
 **Keybase.io** | [@treeherder](https://keybase.io/treeherder)
@@ -36,12 +36,11 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **Wickr** | `siganon` 
 **Skype** | `stephenphorner`
 
-
-### Social Netowrking
-
-- LinkedIn:     [My LinkedIn](https://www.linkedin.com/in/treeherder/)
-- Twitter:      [My Twitter](https://twitter.com/bitmarauder)
-- Mastodon:     [My Mastodon](https://mstdn.io/@treeherder)
+#### Social Networks
+------------ | -------------
+**LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
+**Twitter** | [My Twitter](https://twitter.com/bitmarauder)
+**Mastodon** | [My Mastodon](https://mstdn.io/@treeherder)
 
 
 
