@@ -22,19 +22,18 @@ friends and family in Chile I am simply known as gringo culiao lol.
 
 **SERVICE** | **ACCNT**
 ------------ | -------------
+**Ring** | `treeherder`
 **PGP Key** | [PGPKEY:0xB10BBF421CD2FF3C](https://pgp.mit.edu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C)
 **Keybase.io** | [@treeherder](https://keybase.io/treeherder)
-**Github** | [@siganon](https://siganon.github.io/contact)
+**Github** | [@siganon](https://github.com/siganon)
 **LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
 **Twitter** | [My Twitter](https://twitter.com/bitmarauder)
 **Mastodon** | [My Mastodon](https://mstdn.io/@treeherder)
-**Email** | `treeherder@protonmail.com`
-**Email** | `digger@bitmessage.ch`
+**Email** | `cryptolab@mailfence.com`
 **Matrix/IRC** | `@EvilAngel:matrix.org`
 **Bitmessage** | `BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1`
 **Ricochet** | `ricochet:2azjfm5fmb73xvze`
 **XMPP** | `bitherder@jabber.otr.im`
-**XMPP** | `digger@autistici.org`
 **Wire** | `treeherder`
 **Wickr** | `siganon` 
 **Skype** | `stephenphorner`
