@@ -22,7 +22,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 
 **SERVICE** | **ACCNT**
 ------------ | -------------
-**PGP Key** | [PGPKEY:0xB10BBF421CD2FF3C](https://pgp.mit.eu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C)
+**PGP Key** | [0xB10BBF421CD2FF3C](https://pgp.mit.eu/pks/lookup?op=vindex&search=0xB10BBF421CD2FF3C)
 **Keybase.io** | [@treeherder](https://keybase.io/treeherder)
 **Github** | [@siganon](https://github.com/siganon)
 **LinkedIn** | [My LinkedIn](https://www.linkedin.com/in/treeherder/)
