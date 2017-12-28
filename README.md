@@ -31,9 +31,9 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **Email** | `cryptolab@mailfence.com`
 **Matrix/IRC** | `@EvilAngel:matrix.org`
 **Bitmessage** | `BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1`
-**Ricochet** | `ricochet:2azjfm5fmb73xvze`
+**Ricochet** | `ricochet:g5b4l4jkl6n4cbya`
 **XMPP** | `bitherder@jabber.otr.im`
-**Wire** | `treeherder`
+**Wire** | `down`
 **Wickr** | `siganon` 
 **Skype** | `stephenphorner`
 
