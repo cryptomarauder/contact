@@ -30,7 +30,7 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **Mastodon** | [My Mastodon](https://mstdn.io/@treeherder)
 **Email** | `cryptolab@mailfence.com`
 **Matrix/IRC** | `@cryptomarauder:matrix.org`
-**Bitmessage** | `BM-NBrP27eVHxVg6LNwSCKH8KKeB6e4xZ1`
+**Bitmessage** | `BM-2cTt8UJWDpnZP1CQvDWns5CQHJBCE4eGHv`
 **Ricochet** | `ricochet:g5b4l4jkl6n4cbya`
 **XMPP** | `bitherder@jabber.otr.im`
 **Wire** | `down`
