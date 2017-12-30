@@ -35,7 +35,6 @@ friends and family in Chile I am simply known as gringo culiao lol.
 **XMPP** | `bitherder@jabber.otr.im`
 **Wire** | `down`
 **Wickr** | `siganon` 
-**Skype** | `stephenphorner`
 
 # Skrrt Skrrt!
 
