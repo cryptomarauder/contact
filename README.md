@@ -27,5 +27,54 @@ Briefly about me; I work and study in networking and information systems securit
 **Wire** | `down`
 **Wickr** | `siganon` 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Skrrt Skrrt!
 
