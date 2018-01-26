@@ -13,7 +13,7 @@ Just a bit about me; I work and study in networking, privacy engineering and rec
 **SERVICE** | **ACCOUNT**
 ------------ | -------------
 **Github** | [@siganon](https://github.com/siganon)
-**Mastodon** | [My Mastodon](https://mstdn.io/@treeherder)
+**Mastodon** | [@cryptomarauder@infosec.exchange] (https://infosec.exchange/@cryptomarauder)
 **Email** | `cryptolab ARROBA mailfence PUNTO com`
 **Email** | `treeherder ARROBA protonmail PUNTO com`
 **Matrix/IRC** | `@cryptomarauder:matrix.org`
