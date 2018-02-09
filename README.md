@@ -84,7 +84,7 @@ Just a bit about me; I work and study in networking, privacy engineering and rec
 <br />
 <br />
 <br />
-<code>
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFp6KyIBEACzi1BHnklxbieUPu2yq94EnFRlkB3CT62TTjI1EiNmBu2B05a2
@@ -136,7 +136,7 @@ B+38OXaZZHX7M0358ZW4ypJmgwW0+HD9tV4PyOzVt37S37JvmRDrmeiCj7TBiYWL
 yqRZC5Ra8z3xBe9jhQBrwYkOeWJjM5uL+tCoSOV5PA==
 =xUnF
 -----END PGP PUBLIC KEY BLOCK-----
-</code>
+```
 <br />
 <br />
 <br />
