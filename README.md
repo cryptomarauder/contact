@@ -7,21 +7,20 @@ Just a bit about me; I work and study in networking, privacy engineering and rec
 
 <br />
 
-# CONTACT DETAILS
+# Datos de Contacto
 <br />
 
-**SERVICE** | **ACCOUNT**
+**servicio** | **cuenta**
 ------------ | -------------
-**Github** | [@siganon](https://github.com/siganon)
+**Github** | [@cryptomarauder](https://github.com/cryptomarauder)
 **Mastodon** | [ `@cryptomarauder` ] (https://infosec.exchange/@cryptomarauder)
 **diaspora** | `bitmarauder@joindiaspora.com`
-**Email** | `cryptolab ARROBA mailfence PUNTO com`
 **Email** | `treeherder ARROBA protonmail PUNTO com`
-**Matrix/IRC** | `@cryptomarauder:matrix.org`
+**Matrix/IRC** | `@cryptomarauder`
 **Bitmessage** | `BM-NBgRaeX6jhs5hrAgWf7NVWVG1n4URUbT`
 **Ricochet** | `ricochet:r2h3p4zvn5dyq7o3`
 **Wire** | `@cryptolab`
-**PGP Key** | `At the bottom of this webpage`
+**PGP Key** | `abojo`
 
 <br />
 <br />
