@@ -18,7 +18,7 @@ S
 **servicio** | **cuenta**
 ------------ | -------------
 **Github** | [@cryptomarauder](https://github.com/cryptomarauder)
-**Mastodon** | [`@cryptomarauder`] (https://infosec.exchange/@cryptomarauder)
+**Mastodon** | [@cryptomarauder](https://infosec.exchange/@cryptomarauder)
 **diaspora** | `bitmarauder@joindiaspora.com`
 **Email** | `cryptolab@mailfence.com`
 **Matrix/IRC** | `@cryptomarauder`
