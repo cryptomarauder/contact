@@ -1,9 +1,14 @@
 # WELCOME / BIENVENIDOS !
 
-For a while all you'll find here is just some basic contact information on how to reach me etc. As I grow fond of this platform I may move to develop the page a bit more. But in the mean time, here is the information you came to find.  
+For the time being this will remain a landing pad of sorts for those wondering how to get a message to me. some basic contact information on how to reach me etc. Wire will for the forseeable future remain my daily driver messaging app. That's the best way to reach me. Otherwise email is a sure way to get a message to me. If you send me an email please do use PGP encryption. Otherwise remember that everything written is plain text as it traverses the interwebs and this is not such a good thing. If you need help learning how to use PGP I would absolutely love to help you with it. If you're good with software and compouters etc, then download (https://www.gpg4usb.org) and give me a ring and we'll take a moment to get ya setup.   
 
-Just a bit about me; I work and study in networking, privacy engineering and recently I've been studying information systems security. Asside from my work/passion, I am a father, open source common lisp developer, vegan, free-market, non-violent, bean-and-rice loving techno-primitivist. To those who are close to me, I am simply known as el gringo culiao lol ;)  
+A bit about me; I work and study in networking, privacy engineering and recently information systems security. Asside from my work/passion, I am a father, open source common lisp developer, vegan, free-market, non-violent, bean-and-rice loving techno-primitivist. To those who are close to me I am el tonto de corazon ;)  
 
+Again, thank you for stopping by to send me a word or two. I'll get back to you shortly, God willing.
+
+Chiao,
+
+S
 
 <br />
 
@@ -15,13 +20,13 @@ Just a bit about me; I work and study in networking, privacy engineering and rec
 **Github** | [@cryptomarauder](https://github.com/cryptomarauder)
 **Mastodon** | [ `@cryptomarauder` ] (https://infosec.exchange/@cryptomarauder)
 **diaspora** | `bitmarauder@joindiaspora.com`
-**Email** | `treeherder ARROBA protonmail PUNTO com`
+**Email** | `cryptolab@mailfence.com`
 **Matrix/IRC** | `@cryptomarauder`
 **Bitmessage** | `BM-NBgRaeX6jhs5hrAgWf7NVWVG1n4URUbT`
-**Ricochet** | `ricochet:r2h3p4zvn5dyq7o3`
-**Wire** | `@cryptolab`
-**PGP Key** | `abojo`
-
+**Ricochet** | `ricochet:n1c11rhxzzpxdikr`
+**Wire** | `@errldabber`
+**Telegram** | `@turdfire`
+**PGP Key** | `at the bottom / abojo`
 <br />
 <br />
 <br />
