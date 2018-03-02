@@ -27,6 +27,7 @@ S
 **Wire** | `@errldabber`
 **Wire** | `@treeherder`
 **Telegram** | `@turdfire`
+**IG** | `@turdfire`
 **PGP Key** | `at the bottom`
 <br />
 <br />
