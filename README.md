@@ -1,10 +1,10 @@
-# WELCOME / BIENVENIDOS !
+# WELCOME !
 
-For the time being this will remain a landing pad of sorts for those wondering how to get a message to me. some basic contact information on how to reach me etc. Wire will for the forseeable future remain my daily driver messaging app. That's the best way to reach me. Otherwise email is a sure way to get a message to me. If you send me an email please do use PGP encryption. Otherwise remember that everything written is plain text as it traverses the interwebs and this is not such a good thing. If you need help learning how to use PGP I would absolutely love to help you with it. If you're good with software and compouters etc, then download (https://www.gpg4usb.org) and give me a ring and we'll take a moment to get ya setup.   
+For the time being this will be used as a landing pad of sorts people looking for my ever changing contact info. Wire will for the forseeable future remain my daily driver messaging app. That's the best way to reach me. Otherwise email is a sure way to get a message to me. If you send me an email please do use PGP encryption. Otherwise remember that everything written is plain text as it traverses the interwebs and this is not such a good thing. If you need help learning how to use PGP I would absolutely love to help you with it. If you're good with software and compouters etc, then download (https://www.gpg4usb.org) and give me a ring and we'll take a moment to get ya setup.   
 
 A bit about me; I work and study in networking, privacy engineering and recently information systems security. Asside from my work/passion, I am a father, open source common lisp developer, vegan, free-market, non-violent, bean-and-rice loving techno-primitivist. To those who are close to me I am el tonto de corazon ;)  
 
-Again, thank you for stopping by to send me a word or two. I'll get back to you shortly, God willing.
+Again, thank you for stopping by to send me a word or two. I'll get back to you shortly.
 
 Chiao,
 
@@ -20,13 +20,14 @@ S
 **Github** | [@cryptomarauder](https://github.com/cryptomarauder)
 **Mastodon** | [@cryptomarauder](https://infosec.exchange/@cryptomarauder)
 **diaspora** | `bitmarauder@joindiaspora.com`
-**Email** | `cryptolab@mailfence.com`
+**Email** | `treeherder AT protonmail PUNTO com`
 **Matrix/IRC** | `@cryptomarauder`
 **Bitmessage** | `BM-NBgRaeX6jhs5hrAgWf7NVWVG1n4URUbT`
 **Ricochet** | `ricochet:n1c11rhxzzpxdikr`
 **Wire** | `@errldabber`
+**Wire** | `@treeherder`
 **Telegram** | `@turdfire`
-**PGP Key** | `at the bottom / abojo`
+**PGP Key** | `at the bottom`
 <br />
 <br />
 <br />
